@@ -3,7 +3,7 @@ title:
 date: 2017-06-22 22:34:17
 ---
 ![](http://oryaxqnti.bkt.clouddn.com/pingbao.png)
-*<small>上图来自：</small> [大家都在做什么有趣的个人项目？星玫的答案](https://www.zhihu.com/question/19591301)*   
+*<small>上图来自：</small> [大家都在做什么有趣的个人项目？](https://www.zhihu.com/question/19591301)问题下[**星玫**](https://www.zhihu.com/people/starose/answers)的答案*   
 
 
 ![本人.jpg](http://oryaxqnti.bkt.clouddn.com/woziji.jpg)  
