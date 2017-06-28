@@ -71,3 +71,25 @@ deploy:
   type: git
   repo: git@github.com:Qingyoung/qingyoung.github.com.git
   branch: master
+
+# 七牛云存储图片
+plugins:
+  - hexo-qiniu-sync
+
+qiniu:
+  offline: true
+  sync: true
+  bucket: zilongyoung
+  access_key: 2aQvnCPYZFJIN5xzt8aCc6GdEuS_tYggwuGXPSHD
+  secret_key: ywAYnkpgK5wmmf3fXj3_xFjBNdhUy-gUbLD-F1cS
+  dirPrefix:
+  urlPrefix: http://oryaxqnti.bkt.clouddn.com
+  local_dir: cdn
+  update_exist: true
+  image:
+    folder: images
+    extend: qnimg
+  js:
+    folder: js
+  css:
+    folder: css
