@@ -83,7 +83,7 @@ qiniu:
   access_key: 2aQvnCPYZFJIN5xzt8aCc6GdEuS_tYggwuGXPSHD
   secret_key: ywAYnkpgK5wmmf3fXj3_xFjBNdhUy-gUbLD-F1cS
   dirPrefix:
-  urlPrefix: http://7xqb0u.com1.z0.glb.clouddn.com
+  urlPrefix: http://oryaxqnti.bkt.clouddn.com
   local_dir: cdn
   update_exist: true
   image:
