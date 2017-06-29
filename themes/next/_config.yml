@@ -106,7 +106,7 @@ font:
   # Fallback to `global` font settings.
   headings:
     external: true
-    family:
+    family: 
 
   # Font settings for posts
   # Fallback to `global` font settings.
@@ -139,8 +139,11 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  GitHub: https://github.com/Qingyoung
+  微博: http://weibo.com/5048310192
+  知乎: https://www.zhihu.com/people/mu-yi-sheng-3
+  豆瓣: https://www.douban.com/people/63775619
 
 
 # Social Links Icons
@@ -153,8 +156,9 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  微博: weibo
+  知乎: globe
+  豆瓣: globe
 
 
 # Sidebar Avatar
@@ -521,7 +525,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
