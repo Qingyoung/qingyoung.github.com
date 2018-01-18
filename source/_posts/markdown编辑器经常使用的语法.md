@@ -1,8 +1,8 @@
----
 title: markdown编辑器经常使用的语法
+author: 木易
 date: 2018-01-18 14:36:22
 categories: "工具"
-tags:"工具"
+tags: "工具"
 ---
 ####markdown经常用到的语法如下：####
 1. **分段：** ```两个回车```  
