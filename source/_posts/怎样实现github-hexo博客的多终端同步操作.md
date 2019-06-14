@@ -28,7 +28,7 @@ tags: "工具"
 	git remote add origin git@github.com:yourname/yourname.github.io.git  //将本地与Github项目对接
 完成之后的效果图如下：  
   
-![Github项目Hexo分支效果图](http://oryaxqnti.bkt.clouddn.com/PushHexo.png)
+![Github项目Hexo分支效果图](http://yqcdn.cmyule.cn/blog/hexo/pushhexo.png)
 
 这样你的github项目中就会多出一个Hexo分支，这个就是用于多终端同步关键的部分。
 
